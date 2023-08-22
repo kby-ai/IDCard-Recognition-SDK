@@ -50,7 +50,7 @@ Help Center: https://docs.kby-ai.com
 ## Try Online
 https://web.kby-ai.com
 
-  ![image](https://github.com/kby-ai/IDCard-Recognition-SDK/assets/125717930/113c76b0-5bd8-47d4-abd6-e2a3e3e8a510)
+  ![image](https://github.com/kby-ai/IDCardRecognition-Docker/assets/125717930/ff395174-d3e9-4198-bfc8-6024a8c31734)
 
   
 ### Postman
