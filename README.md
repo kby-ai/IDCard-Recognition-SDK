@@ -8,8 +8,8 @@
 ## Overview
 At the core of this project lies the ID Card Recognition SDK, which has been developed to provide comprehensive support for recognizing ID cards, passports, and driver's licenses from over 180 countries.
 
-## Documents
-Help Center: https://docs.kby-ai.com
+## Documentation
+Help Center: https://docs.kby-ai.com/help/product/id-card-sdk
 
 ## ID Card Recognition SDK(Android, iOS)
 
