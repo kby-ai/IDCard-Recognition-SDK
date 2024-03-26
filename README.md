@@ -62,9 +62,9 @@ https://web.kby-ai.com
     
     ![image](https://github.com/kby-ai/IDCardRecognition-Docker/assets/125717930/0ec93826-76d7-47a7-9065-6bd353bc79b3)
 
-## Please contact us:
+## Please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
-🧙`Telegram:` @kbyai</br>
-🧙`WhatsApp:` +19092802609</br>
-🧙`Skype:` live:.cid.66e2522354b1049b</br>
+🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
+🧙`WhatsApp:` [+19092802609](https://wa.me/+19092802609)</br>
+🧙`Skype:` [live:.cid.66e2522354b1049b](https://join.skype.com/invite/OffY2r1NUFev)</br>
 🧙`Facebook:` https://www.facebook.com/KBYAI</br>
