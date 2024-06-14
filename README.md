@@ -8,6 +8,11 @@
 ## Overview
 At the core of this project lies the ID Card Recognition SDK, which has been developed to provide comprehensive support for recognizing ID cards, passports, and driver's licenses from over 180 countries.
 
+## Performance Video
+
+You can visit our YouTube video [here](https://www.youtube.com/watch?v=5InSERvHGvY) to see how well our demo app works.</br></br>
+[![Face Recognition](https://img.youtube.com/vi/5InSERvHGvY/0.jpg)](https://www.youtube.com/watch?v=5InSERvHGvY)
+
 ## Documentation
 Help Center: https://docs.kby-ai.com/help/product/id-card-sdk
 
