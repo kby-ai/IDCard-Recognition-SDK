@@ -10,8 +10,8 @@ At the core of this project lies the ID Card Recognition SDK, which has been dev
 
 ## Performance Video
 
-You can visit our YouTube video [here](https://www.youtube.com/watch?v=5InSERvHGvY) to see how well our demo app works.</br></br>
-[![Face Recognition](https://img.youtube.com/vi/5InSERvHGvY/0.jpg)](https://www.youtube.com/watch?v=5InSERvHGvY)
+You can visit our YouTube video [here](https://www.youtube.com/watch?v=Pn5Coq7QZ8s) to see how well our demo app works.</br></br>
+[![ID Card Recognition iOS](https://img.youtube.com/vi/Pn5Coq7QZ8s/0.jpg)](https://www.youtube.com/watch?v=Pn5Coq7QZ8s)
 
 ## Documentation
 Help Center: https://docs.kby-ai.com/help/product/id-card-sdk
